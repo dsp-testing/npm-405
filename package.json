@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dsp-testing/npm-405#readme",
   "devDependencies": {
-    "@babel/core": "^7.0.0-0"
+    "vercel": "28.18.0"
   }
 }
